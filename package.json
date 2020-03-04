@@ -1,6 +1,6 @@
 {
   "name": "json-resume",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "takes a url as param and renders that json on screen",
   "main": "my-resume.js",
   "scripts": {
