@@ -1,0 +1,20 @@
+{
+  "name": "json-resume",
+  "version": "1.0.2",
+  "description": "takes a url as param and renders that json on screen",
+  "main": "my-resume.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anujsharma-bbd/custom-component-my-resume.git"
+  },
+  "keywords": [
+    "json",
+    "resume"
+  ],
+  "author": "Anuj Sharma",
+  "license": "ISC",
+  "dependencies": {}
+}
