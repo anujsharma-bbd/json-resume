@@ -58,7 +58,7 @@ class MyResume extends LitElement {
     }
     getHtmlContent(propName, data) {
         const propType = typeof (data);
-        if (propType === 'string')
+        if (propType === 'string' || propType === 'number')
             return html`
                     <div class='item'>
                             <div><label class='field-name'>${propName}</label></div>
